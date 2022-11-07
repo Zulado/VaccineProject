@@ -1,0 +1,120 @@
+Hawari Azuwar;480339-10-2253;Kelantan;44;Pfizer;Done;Done;Complete
+Danish Kayam;540410-07-4794;Johor;68;Pfizer;Done;Done;Complete
+Zul Azri;590653-03-6222;Melaka;57;AstraZeneca;Done;Done;Complete
+Zul Cobra;720125-08-1298;Selangor;53;Sinovac;Done;Done;Complete
+Nabil Zafran;880206-10-9323;Terengganu;39;Pfizer;Done;Done;Complete
+Huseyin Kilicman;770306-06-3757;Sarawak;47;AstraZeneca;Done;Done;Complete
+Hafiz bin Ramly;900201-13-7557;Kedah;32;AstraZeneca;Done;Done;Complete
+Noh Salleh;960802-06-6844;Kelantan;26;AstraZeneca;Done;Done;Complete
+Wafiy Ilhan;900226-11-5067;Sabah;32;AstraZeneca;Done;Done;Complete
+Hanim Idris;670720-01-1402;Kelantan;56;CanSino;Done;Done;Complete
+Mat Razi;701118-05-7434;Selangor;53;CanSino;Done;Done;Complete
+Ramlah binti Baharum;509910-11-8934;Kelantan;72;Pfizer;Done;Done;Complete
+Karmila binti Arifin;770809-09-2431;Pahang;48;CanSino;Done;Done;Complete
+Suhaida binti Razik;915530-03-4796;Sarawak;31;Pfizer;Done;Done;Complete
+Jonah bin Azman;991116-12-1871;Kelantan;23;AstraZeneca;Done;Done;Complete
+Tajuddin Ahmad;700674-11-5734;Kedah;52;AstraZeneca;Done;Done;Complete
+Lee Park;930622-03-3380;Melaka;29;CanSino;Done;Done;Complete
+Arif Kamaruddin;720422-05-9569;Pahang;57;Pfizer;Done;Done;Complete
+Aina binti Azrai;538222-10-3501;Selangor;67;AstraZeneca;Done;Done;Complete
+Lina Rahim;700119-12-8451;Kelantan;53;Pfizer;Done;Done;Complete
+Syuhada chew;730715-10-9172;Pahang;48;AstraZeneca;Done;Done;Complete
+Chong Wong;640831-07-4044;Perlis;60;AstraZeneca;Done;Done;Complete
+Munirah binti Othman;880524-10-4337;Pahang;44;Pfizer;Done;Done;Complete
+LinTat bin Abu Hasan;700126-09-0605;Terengganu;54;CanSino;Done;Done;Complete
+Din Kayam;900311-07-5554;Selangor;37;Pfizer;Done;Done;Complete
+Omar Jaki;900818-01-4471;Perlis;32;Sinovac;Done;Done;Complete
+Komeng Mutu;990625-04-4237;Pahang;23;Sinovac;Done;Done;Complete
+Ronaldo Azhar;920913-02-3239;Perak;29;AstraZeneca;Done;Done;Complete
+muhamad Ijal;720720-06-8833;Perlis;55;CanSino;Done;Done;Complete
+Hadir rahman bin Abdul Ghani;890892-14-1131;Kelantan;40;CanSino;Done;Done;Complete
+Kayam Musa;921311-07-5554;Selangor;39;Pfizer;Done;Done;Complete
+Joki Jaki;900818-01-4471;Perlis;42;Sinovac;Done;Done;Complete
+Judin Mutu;990545-04-4237;Pahang;32;Sinovac;Done;Done;Complete
+Ronaldin Azhar;990813-02-3239;Perak;39;AstraZeneca;Done;Done;Complete
+Razak Mujahid;700720-06-8833;Perlis;52;CanSino;Done;Done;Complete
+Haziq rahman bin Abdul Ghani;899892-14-1131;Kelantan;39;CanSino;Done;Done;Complete
+Din Kayum;950311-07-5554;Selangor;47;Pfizer;Done;Done;Complete
+Punai Omar;990818-01-4471;Perlis;33;Sinovac;Done;Done;Complete
+Rafizi Hamstring;920625-04-4237;Pahang;43;Sinovac;Done;Done;Complete
+Zahid Azhar;933913-02-3239;Perak;29;AstraZeneca;Done;Done;Complete
+Ahmad Malacia;700720-06-8833;Perlis;55;CanSino;Done;Done;Complete
+Hadi Zainul;800892-14-1131;Kelantan;44;CanSino;Done;Done;Complete
+Sancho Ghani;930818-01-4471;Pahang;55;Sinovac;Done;Done;Complete
+Razziq Butterfly;940625-04-4237;Pahang;28;Sinovac;Done;Done;Complete
+Ijam Greenwood;670913-02-3239;Perak;56;AstraZeneca;Done;Done;Complete
+Kabut Jelil;700720-06-8833;Perlis;52;CanSino;Done;Done;Complete
+Erling Kusyairi;990892-14-1131;Kelantan;23;CanSino;Done;Done;Complete
+Razak Azri;88311-07-5554;Selangor;42;Pfizer;Done;Done;Complete
+Athirah Binti Yusry;909918-01-4471;Perlis;33;Sinovac;Done;Done;Complete
+Taliban Samadan;520625-04-4237;Pahang;78;Sinovac;Done;Done;Complete
+Romeo Haziq;733913-02-3239;Perak;56;AstraZeneca;Done;Done;Complete
+Aezuddin Ahmad;330720-06-8833;Perlis;99;CanSino;Done;Done;Complete
+Atiqullah Zamani;670892-14-1131;Kelantan;56;CanSino;Done;Done;Complete
+Azroi Atoi;910818-01-4471;Pahang;31;Sinovac;Done;Done;Complete
+Sen Kerodok;770625-04-4237;Pahang;53;Sinovac;Done;Done;Complete
+Romen Jambu;600913-02-3239;Perak;62;AstraZeneca;Done;Done;Complete
+Luqman Kiyam;620720-06-8833;Perlis;60;CanSino;Done;Done;Complete
+Izhar Usman;010892-14-1131;Kelantan;21;CanSino;Done;Done;Complete
+Reman Muqsit;703913-02-3239;Perak;52;AstraZeneca;Done;Done;Complete
+Shaiful Othman;730720-06-8833;Perlis;49;CanSino;Done;Done;Complete
+Atitulla Tortilla;880892-14-1131;Kelantan;43;CanSino;Done;Done;Complete
+Rodok Musammir;660818-01-4471;Pahang;39;Sinovac;Done;Done;Complete
+Ainina Hasnul;700625-04-4237;Pahang;52;Sinovac;Done;Done;Complete
+Hasyim Jomblo;760913-02-3239;Perak;46;AstraZeneca;Done;Done;Complete
+Razqunillah;990720-06-8833;Perlis;24;CanSino;Done;Done;Complete
+Soddiq Abdullah;040892-14-1131;Kelantan;18;CanSino;Done;Done;Complete
+Taliban Samadan;520625-04-4237;Pahang;78;Sinovac;Done;Done;Complete
+Lahabat Rizki;993913-02-3239;Perak;67;AstraZeneca;Done;Done;Complete
+Rahman Yasin;880720-06-8833;Perlis;30;CanSino;Done;Done;Complete
+Aliff Koroi;800892-14-1131;Kelantan;42;CanSino;Done;Done;Complete
+Jima longtoi;760818-01-4471;Pahang;48;Sinovac;Done;Done;Complete
+Norita Hijjah;660625-04-4237;Pahang;57;Sinovac;Done;Done;Complete
+Yam Tajuddin;550913-02-3239;Perak;62;AstraZeneca;Done;Done;Complete
+Syahid Asma;750720-06-8833;Perlis;45;CanSino;Done;Done;Complete
+Azam Rabebe;010345-14-1131;Kelantan;21;CanSino;Done;Done;Complete
+Izzul Othman;883913-02-3239;Perak;36;AstraZeneca;Done;Done;Complete
+Umaira Sofiya;770720-06-8833;Perlis;45;CanSino;Done;Done;Complete
+Aaron Damascus;820892-14-1131;Kelantan;46;CanSino;Done;Done;Complete
+Azizul Hani;860818-01-4471;Pahang;36;Sinovac;Done;Done;Complete
+Razman Ragaman;990625-04-4237;Pahang;23;Sinovac;Done;Done;Complete
+Halimah Bunga;710913-02-3239;Perak;51;AstraZeneca;Done;Done;Complete
+Halimun Sofyan;820720-06-8833;Perlis;55;CanSino;Done;Done;Complete
+Haruan Keruan;740892-14-1131;Kelantan;50;CanSino;Done;Done;Complete
+Sri Rodzi;771118-05-7174;Kelatan;45;CanSino;Done;;
+Masnah Baharum;501110-11-8934;Kelatan;72;Pfizer;Done;;
+Rahimah Maarof;480809-09-2861;Pahang;74;CanSino;Done;;
+Suhaida Razak;911230-14-4796;Sarawak;31;Pfizer;Done;;
+Jonathan Azman;651116-12-1871;Kelatan;57;AsDonetraZeneca;;;
+Zainudin Van Basten;700315-11-5734;Kedah;52;AstraZeneca;Done;;
+Rahisal Fadzil;960622-03-3780;Melaka;26;CanSino;;;
+Jefree Sham;690422-05-9569;Pahang;53;Pfizer;;;
+Yun Nam;590312-12-3501;Kelatan;63;AstraZeneca;;;
+Haslina Sakiudin;620119-12-8191;Kelatan;60;Pfizer;;;
+Mail Haron;790715-12-9172;Pahang;43;AstraZeneca;;;
+Asrul Amin;540831-07-4066;Perlis;68;AstraZeneca;;;
+Hanifah Othman;860524-10-4507;Perak;36;Pfizer;;;
+Abu Hasan Mat ;880126-09-0605;Terengganu;34;CanSino;;;
+Awang Bad;850311-07-5834;Selangor;37;Pfizer;;;
+Nahariah Omar;980818-01-4471;Perlis;24;Sinovac;;;
+Jongah Osman;020625-04-4237;Pahang;20;Sinovac;;;
+Amri Yakyeay;980913-02-3139;Perak;24;AstraZeneca;;;
+Azi Jali;740720-06-8833;Perlis;48;CanSino;;;
+Abdul Hakim;820522-14-1131;Kelatan;40;CanSino;;;
+Im Kamarudin;970824-08-6480;Kedah;25;AstraZeneca;;;
+David Bekam;830609-12-0240;Sarawak;39;Pfizer;;;
+Rahim Sterling;700504-10-3393;Kelatan;52;CanSino;;;
+Izam Fuzy;991108-12-9268;Pulau Pinang;23;AstraZeneca;;;
+Ariffin Talib;660708-14-0967;Pahang;56;AstraZeneca;;;
+Khai Havertz;811125-13-3373;Pahang;41;Pfizer;;;
+Fazilah Khamsah;810409-06-2174;Johor;41;Pfizer;;;
+Som Tam;700530-06-7007;Perlis;52;CanSino;;;
+Zee Kong;600111-05-3537;Pahang;62;Sinovac;;;
+Salamah Latif;770925-09-4113;Perak;45;Sinovac;;;
+Khairul Anuar;940210-03-1646;Negeri Sembilan;28;Pfizer;;;
+Romlan Ramlee;000619-10-6022;Terengganu;22;CanSino;;;
+Rafidzah Halim;040805-03-3763;Johor;18;Pfizer;;;
+Yang Yin;851018-12-4269;Pahang;37;AstraZeneca;;;
+Rosli Rais;901022-02-9459;Sarawak;32;CanSino;;;
+Rafizi Awang;521007-01-0698;Kelatan;70;Pfizer;;;
+Cheh Rusli;890624-06-4774;Perak;33;Sinovac;;;
